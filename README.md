@@ -1,4 +1,4 @@
-# UMBA - Code example
+# dataPlor - Code example
 
 [TrackStreet](https://www.trackstreet.com) has built an industry leading *SaaS* platform that leverages the power of artificial intelligence and automation to radically reduce brand and pricing policy violations. 
 
